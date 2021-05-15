@@ -1,4 +1,7 @@
-![header](https://raw.githubusercontent.com/alexarraiza/alexarraiza/main/header.png)
+
+<p align="center">
+  <img width="800" height="260" src="https://raw.githubusercontent.com/alexarraiza/alexarraiza/main/header.png">
+</p>
 
 ### Hi there 👋
 
